@@ -1,9 +1,8 @@
 {
-"response":{
-"content":"Hello, World!"
-"tts":false
-"embeds":[...]
-}
-"status":200
-"statusText":"OK"
+  "content": "Hello, World!",
+  "tts": false,
+  "embeds": [{
+    "title": "Hello, Embed!",
+    "description": "This is an embedded message."
+  }]
 }
